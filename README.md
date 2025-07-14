@@ -60,8 +60,9 @@ I enjoy **solving complex problems**, **contributing to open-source projects**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinefokou&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=radical)](https://github.com/fotsoeddy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fotsoeddy&theme=radical&hide_border=true)](https://github.com/fotsoeddy)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fotsoeddy&theme=radical)](https://github.com/fotsoeddy)
 </p>
 
 
