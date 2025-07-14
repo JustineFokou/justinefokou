@@ -15,9 +15,9 @@ A comprehensive skillset covering the entire application development lifecycle.
 | **Hosting**      | Vercel, Netlify, Hostinger, Render, Railway, AWS, Firebase                         |
 | **DevOps & Tools** | Git, GitHub, Docker, Postman, Thunder Client, Linux, Bash Scripting                  |
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fotsoeddy&show_icons=true&theme=radical)](https://github.com/fotsoeddy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fotsoeddy&theme=radical&hide_border=true)](https://github.com/fotsoeddy)
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fotsoeddy&theme=radical)](https://github.com/fotsoeddy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical)](https://github.com/justinefokou)
+[![GitHub Streak](https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true)](https://github.com/justinefokou)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical)](https://github.com/justinefokou)
 
 ## 📊 GitHub Overview
 
@@ -31,6 +31,6 @@ These statistics offer a comprehensive view of my GitHub activity and contributi
 
 I am always eager to explore new opportunities and collaborations. Please feel free to connect with me through the following channels:
 
-*   **Email:** [fotsoeddysteve@gmail.com](mailto:fotsoeddysteve@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/fotsoeddy](https://linkedin.com/in/fotsoeddy)
-*   **Twitter:** [twitter.com/fotsoeddy](https://twitter.com/fotsoeddy)
+*   **Email:** [justinefokousteve@gmail.com](mailto:justinefokousteve@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/justinefokou](https://linkedin.com/in/justinefokou)
+*   **Twitter:** [twitter.com/justinefokou](https://twitter.com/justinefokou)
