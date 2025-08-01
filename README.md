@@ -1,36 +1,46 @@
-# Fotso Eddy Steve 👋 | Full-Stack & Mobile Developer
+# Justine Fokou 👋 | Full-Stack & DevOps Enthusiast
 
+🚀 Passionate about crafting reliable, scalable, and elegant web applications from **frontend to backend**, including **hosting** and **DevOps**. I enjoy turning complex problems into simple, beautiful solutions — and continuously learning in the process.
 
+---
 
-A highly motivated and versatile Full-Stack and Mobile Developer with a passion for building efficient and scalable applications. My expertise encompasses the complete software development lifecycle, from crafting elegant Frontend interfaces to developing robust Backend systems, managing Hosting environments, and implementing DevOps best practices. I am dedicated to continuous learning and committed to delivering high-quality, innovative solutions. Let's connect and create something extraordinary together! 🚀
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+| Domain            | Technologies & Tools                                                                 |
+|------------------|----------------------------------------------------------------------------------------|
+| **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS, React.js, Vue.js                                |
+| **Backend**       | Python, Django, Django REST Framework, Node.js, Express.js                           |
+| **DevOps / Tools**| Git, GitHub, Docker, Linux, Bash, Postman, Thunder Client                            |
+| **Hosting / CI**  | Vercel, Netlify, Firebase, Hostinger, Railway, Render, AWS                           |
 
-A comprehensive skillset covering the entire application development lifecycle.
+---
 
-| Category         | Technologies/Tools                                                                 |
-| ---------------- | ---------------------------------------------------------------------------------- |
-| **Frontend**     | HTML, CSS, SCSS, JavaScript, TypeScript, React, Vue.js                             |
-| **Backend**      | Django, Django REST Framework, Python, Node.js, Express.js                          |
-| **Hosting**      | Vercel, Netlify, Hostinger, Render, Railway, AWS, Firebase                         |
-| **DevOps & Tools** | Git, GitHub, Docker, Postman, Thunder Client, Linux, Bash Scripting                  |
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical)](https://github.com/justinefokou)
-[![GitHub Streak](https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true)](https://github.com/justinefokou)
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical)](https://github.com/justinefokou)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical)](https://github.com/justinefokou)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true)](https://github.com/justinefokou)  
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical)](https://github.com/justinefokou)
 
-## 📊 GitHub Overview
+---
 
-These statistics offer a comprehensive view of my GitHub activity and contributions.
+## 💡 About Me
 
-*   **GitHub Stats:** Provides an overview of my contributions, coding habits, and areas of expertise.
-*   **GitHub Streak:** Highlights my current and longest contribution streaks, demonstrating consistent engagement and dedication.
-*   **Contribution Activity:** Illustrates my recent contributions and overall involvement within the GitHub community.
+- 🎓 Self-driven learner & passionate developer
+- 🧠 Currently working on **e-learning**, **project management**, and **real-time web apps**
+- 🌍 Based in Cameroon | Working remotely worldwide
+- 💬 Always open to sharing knowledge & collaborating on impactful projects
 
-## 📬 Connect with Me
+---
 
-I am always eager to explore new opportunities and collaborations. Please feel free to connect with me through the following channels:
+## 📬 Let’s Connect
 
-*   **Email:** [justinefokousteve@gmail.com](mailto:justinefokousteve@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/justinefokou](https://linkedin.com/in/justinefokou)
-*   **Twitter:** [twitter.com/justinefokou](https://twitter.com/justinefokou)
+I'm always open to new opportunities, collaborations, or simply chatting tech!
+
+- 📧 Email: [justinefokousteve@gmail.com](mailto:justinefokousteve@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://linkedin.com/in/justinefokou)  
+- 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/justinefokou)
+
+---
+
+_“Code is poetry. Clean code is a masterpiece.”_
+
