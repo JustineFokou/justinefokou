@@ -1,44 +1,31 @@
-<h1 align="center">Hi 👋, I'm Justine Fokou</h1>
-<h3 align="center">💻 Full-Stack Developer | 🛠️ DevOps Enthusiast | 🌍 Based in Cameroon</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5">Justine Fokou</span></h1>
+<h3 align="center">💻 Full-Stack Developer • 🛠️ DevOps Enthusiast • 🌍 Cameroon</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable, elegant, and reliable web applications — from UI to API, infrastructure to deployment.
-  <br />
-  💡 I love transforming ideas into real-world solutions using modern tech.
+  🚀 Building scalable & reliable web applications <br />
+  💡 Transforming ideas into real-world solutions with modern tech
 </p>
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td><strong>👨‍🎨 Frontend</strong></td>
-    <td>HTML • CSS • JavaScript • Tailwind CSS • React.js • Vue.js</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Backend</strong></td>
-    <td>Python • Django • DRF • Node.js • Express.js</td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ DevOps & Tools</strong></td>
-    <td>Git • GitHub • Docker • Bash • Linux • Postman • Thunder Client</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Hosting / CI</strong></td>
-    <td>Vercel • Netlify • Firebase • Hostinger • Railway • Render • AWS</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,python,django,nodejs,express,git,github,docker,linux,postman,aws,firebase" />
+</p>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical" alt="GitHub Summary Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=justinefokou&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=tokyonight" />
 </p>
 
 ---
@@ -46,21 +33,20 @@
 ## ✨ About Me
 
 - 🎓 Self-taught & curious lifelong learner  
-- 🧪 Currently working on: **E-learning platforms**, **task management systems**, and **real-time apps**  
-- 🌐 Open-source lover & community contributor  
-- 🌍 Based in Cameroon — working remotely with global teams  
-- 💬 Love clean code, clear design, and coffee ☕
+- 🧪 Currently working on **E-learning platforms**, **task management systems**, and **real-time apps**  
+- 🌐 Open-source contributor & community enthusiast  
+- ☕ Coffee + Clean code = ❤️  
 
 ---
 
-## 🤝 Let’s Connect
+## 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:justinefokou@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/justinefokou"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/justinefokou"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:justinefokou@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/justinefokou"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/justinefokou"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><em>“Code is poetry. Clean code is a masterpiece.”</em></p>
+<p align="center"><em>“Code is poetry, clean code is a masterpiece.”</em></p>
