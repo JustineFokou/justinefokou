@@ -11,7 +11,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,python,django,nodejs,express,git,github,docker,linux,postman,aws,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,ts,react,vue,tailwind,bootstrap,nodejs,express,git,github,docker,linux,postman,aws,firebase,mysql" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinefokou&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinefokou&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=php" width="40%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=justinefokou&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" width="55%" />
 </p>
 
