@@ -19,17 +19,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=justinefokou&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustineFokou&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=JustineFokou&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustineFokou&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinefokou&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=php" width="40%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=justinefokou&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineFokou&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=php" width="40%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=JustineFokou&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" width="55%" />
 </p>
 
 ---
