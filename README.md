@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineFokou&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=php" width="42%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=JustineFokou&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="55%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=JustineFokou&limit=8&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="55%" />
 </p>
 
 ---
