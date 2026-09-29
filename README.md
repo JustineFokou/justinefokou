@@ -29,6 +29,25 @@
 - Currently working on e-learning platforms and task-management tools.
 - Lifelong learner, open-source enthusiast, and clean-code advocate.
 
+## Current focus
+
+- Improving my skills in cloud infrastructure and DevOps practices.
+- Building scalable full-stack applications.
+- Exploring real-time systems and modern developer tools.
+
+## Services
+
+- Front-end and full-stack web development
+- REST API design and integration
+- Docker-based deployment and basic DevOps setup
+- Website performance and UI improvements
+
+## Let’s work together
+
+I am open to collaborations, freelance opportunities, and interesting open-source projects.
+
+📩 Reach me at **justinefokou@gmail.com**
+
 ## Tech stack
 
 <p align="center">
