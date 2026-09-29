@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:justinefokou@gmail.com">
+  <a href="mailto:justinefokou29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/justinefokou">
@@ -46,7 +46,7 @@
 
 I am open to collaborations, freelance opportunities, and interesting open-source projects.
 
-📩 Reach me at **justinefokou@gmail.com**
+📩 Reach me at **justinefokou29@gmail.com**
 
 ## Tech stack
 
