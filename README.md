@@ -35,6 +35,19 @@
   <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,vue,nodejs,express,html,css,tailwind,bootstrap,mysql,docker,aws,firebase,git,github,linux,postman" alt="My technical skills" />
 </p>
 
+
+## Featured projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [E-learning Platform](https://github.com/JustineFokou) | A modern learning platform designed to deliver structured courses and track learner progress. | React · Django · MySQL |
+| [Task Management App](https://github.com/JustineFokou) | A collaborative application for organising tasks, teams, and project workflows. | TypeScript · Node.js · Express |
+| [Real-Time Application](https://github.com/JustineFokou) | A real-time web experience focused on fast communication and reliable updates. | React · Socket.io · Firebase |
+
+<p align="center">
+  <i>More projects are available in my repositories.</i>
+</p>
+
 ## GitHub activity
 
 <p align="center">
